@@ -22,5 +22,4 @@ On the terminal run the below command to launch streamlit:
 ```shell
 streamlit run app.py
 ```
-
 The app will be available on http://localhost:8501/
